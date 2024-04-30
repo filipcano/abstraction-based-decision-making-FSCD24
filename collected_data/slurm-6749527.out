@@ -1,0 +1,441 @@
+T: 1
+Value naive: 1
+Naive Elapsed time: 0.000301882 seconds
+Naive Memory Usage: 5.53125 MB
+T: 2
+Value naive: 1
+Naive Elapsed time: 0.000298897 seconds
+Naive Memory Usage: 5.53125 MB
+T: 3
+Value naive: 1
+Naive Elapsed time: 0.00033314 seconds
+Naive Memory Usage: 5.53125 MB
+T: 4
+Value naive: 1
+Naive Elapsed time: 0.000953195 seconds
+Naive Memory Usage: 5.67969 MB
+T: 5
+Value naive: 1
+Naive Elapsed time: 0.00517302 seconds
+Naive Memory Usage: 5.88672 MB
+T: 6
+Value naive: 1.00048
+Naive Elapsed time: 0.0421247 seconds
+Naive Memory Usage: 7.6875 MB
+T: 7
+Value naive: 1.00271
+Naive Elapsed time: 0.378695 seconds
+Naive Memory Usage: 24.0352 MB
+T: 8
+Value naive: 1.01396
+Naive Elapsed time: 3.27287 seconds
+Naive Memory Usage: 170 MB
+T: 9
+Value naive: 1.03506
+Naive Elapsed time: 28.4486 seconds
+Naive Memory Usage: 1483.81 MB
+T: 10
+max_response.sh: line 11: 2756725 Segmentation fault      timeout 3600s ./max_response.o --compute_naive < inputs/max_response_input_$i.txt
+Command potentially failed due to memory limit for input 10
+T: 1
+Value: 1
+Optimized Elapsed time: 0.000346365 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 2
+Value: 1
+Optimized Elapsed time: 0.000250636 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 3
+Value: 1
+Optimized Elapsed time: 0.00024172 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 4
+Value: 1
+Optimized Elapsed time: 0.000288918 seconds
+Optimized Memory Usage: 5.66406 MB
+T: 5
+Value: 1
+Optimized Elapsed time: 0.000322821 seconds
+Optimized Memory Usage: 5.66016 MB
+T: 6
+Value: 1.00048
+Optimized Elapsed time: 0.000239486 seconds
+Optimized Memory Usage: 5.66016 MB
+T: 7
+Value: 1.00271
+Optimized Elapsed time: 0.000260765 seconds
+Optimized Memory Usage: 5.78906 MB
+T: 8
+Value: 1.01396
+Optimized Elapsed time: 0.000292254 seconds
+Optimized Memory Usage: 5.78906 MB
+T: 9
+Value: 1.03506
+Optimized Elapsed time: 0.000301892 seconds
+Optimized Memory Usage: 5.91797 MB
+T: 10
+Value: 1.01205
+Optimized Elapsed time: 0.000287636 seconds
+Optimized Memory Usage: 6.04688 MB
+T: 25
+Value: 1.78967
+Optimized Elapsed time: 0.00118549 seconds
+Optimized Memory Usage: 12.6211 MB
+T: 50
+Value: 2.01337
+Optimized Elapsed time: 0.012377 seconds
+Optimized Memory Usage: 78.75 MB
+T: 75
+Value: 2.07533
+Optimized Elapsed time: 0.0468961 seconds
+Optimized Memory Usage: 293.637 MB
+T: 100
+Value: 2.0865
+Optimized Elapsed time: 0.135743 seconds
+Optimized Memory Usage: 844.453 MB
+T: 125
+Value: 2.16553
+Optimized Elapsed time: 0.301211 seconds
+Optimized Memory Usage: 1847.47 MB
+T: 150
+Value: 2.15882
+Optimized Elapsed time: 0.649245 seconds
+Optimized Memory Usage: 3722.67 MB
+T: 175
+Value: 2.23444
+Optimized Elapsed time: 1.15057 seconds
+Optimized Memory Usage: 6475.38 MB
+T: 200
+Value: 2.21722
+Optimized Elapsed time: 2.24965 seconds
+Optimized Memory Usage: 10935 MB
+T: 225
+Value: 2.2862
+Optimized Elapsed time: 3.52668 seconds
+Optimized Memory Usage: 16779.7 MB
+T: 250
+Value: 2.26364
+Optimized Elapsed time: 5.58314 seconds
+Optimized Memory Usage: 25503.6 MB
+T: 275
+Value: 2.32639
+Optimized Elapsed time: 8.10083 seconds
+Optimized Memory Usage: 36164.2 MB
+T: 300
+Value: 2.30125
+Optimized Elapsed time: 11.671 seconds
+Optimized Memory Usage: 51252 MB
+T: 325
+Value: 2.35872
+Optimized Elapsed time: 15.8836 seconds
+Optimized Memory Usage: 68833.1 MB
+T: 350
+Value: 2.33247
+Optimized Elapsed time: 21.6099 seconds
+Optimized Memory Usage: 92804.8 MB
+T: 375
+Value: 2.38553
+Optimized Elapsed time: 28.1052 seconds
+Optimized Memory Usage: 119792 MB
+T: 400
+Value: 2.35895
+Optimized Elapsed time: 37.2061 seconds
+Optimized Memory Usage: 155588 MB
+T: 425
+Value: 2.40831
+Optimized Elapsed time: 46.6228 seconds
+Optimized Memory Usage: 194848 MB
+T: 1
+Value naive: 1
+Naive Elapsed time: 0.000429069 seconds
+Naive Memory Usage: 5.53125 MB
+T: 2
+Value naive: 1
+Naive Elapsed time: 0.000292805 seconds
+Naive Memory Usage: 5.53125 MB
+T: 3
+Value naive: 1
+Naive Elapsed time: 0.00050999 seconds
+Naive Memory Usage: 5.53125 MB
+T: 4
+Value naive: 1
+Naive Elapsed time: 0.00163026 seconds
+Naive Memory Usage: 5.67969 MB
+T: 5
+Value naive: 1
+Naive Elapsed time: 0.0109216 seconds
+Naive Memory Usage: 5.88672 MB
+T: 6
+Value naive: 1.00048
+Naive Elapsed time: 0.0558125 seconds
+Naive Memory Usage: 7.6875 MB
+T: 7
+Value naive: 1.00271
+Naive Elapsed time: 0.369145 seconds
+Naive Memory Usage: 24.0352 MB
+T: 8
+Value naive: 1.01396
+Naive Elapsed time: 3.26169 seconds
+Naive Memory Usage: 170 MB
+T: 9
+Value naive: 1.03506
+Naive Elapsed time: 28.4816 seconds
+Naive Memory Usage: 1483.81 MB
+T: 10
+max_response.sh: line 11: 2757811 Segmentation fault      timeout 3600s ./max_response.o --compute_naive < inputs/max_response_input_$i.txt
+Command potentially failed due to memory limit for input 10
+T: 1
+Value: 1
+Optimized Elapsed time: 0.000299237 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 2
+Value: 1
+Optimized Elapsed time: 0.000269983 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 3
+Value: 1
+Optimized Elapsed time: 0.000296192 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 4
+Value: 1
+Optimized Elapsed time: 0.000222414 seconds
+Optimized Memory Usage: 5.66406 MB
+T: 5
+Value: 1
+Optimized Elapsed time: 0.000236641 seconds
+Optimized Memory Usage: 5.66016 MB
+T: 6
+Value: 1.00048
+Optimized Elapsed time: 0.000233455 seconds
+Optimized Memory Usage: 5.66016 MB
+T: 7
+Value: 1.00271
+Optimized Elapsed time: 0.000227383 seconds
+Optimized Memory Usage: 5.78906 MB
+T: 8
+Value: 1.01396
+Optimized Elapsed time: 0.000304927 seconds
+Optimized Memory Usage: 5.78906 MB
+T: 9
+Value: 1.03506
+Optimized Elapsed time: 0.000279891 seconds
+Optimized Memory Usage: 5.91797 MB
+T: 10
+Value: 1.01205
+Optimized Elapsed time: 0.000266146 seconds
+Optimized Memory Usage: 6.04688 MB
+T: 25
+Value: 1.78967
+Optimized Elapsed time: 0.00113746 seconds
+Optimized Memory Usage: 12.6211 MB
+T: 50
+Value: 2.01337
+Optimized Elapsed time: 0.0122903 seconds
+Optimized Memory Usage: 78.75 MB
+T: 75
+Value: 2.07533
+Optimized Elapsed time: 0.0473544 seconds
+Optimized Memory Usage: 293.637 MB
+T: 100
+Value: 2.0865
+Optimized Elapsed time: 0.135871 seconds
+Optimized Memory Usage: 844.453 MB
+T: 125
+Value: 2.16553
+Optimized Elapsed time: 0.286043 seconds
+Optimized Memory Usage: 1847.47 MB
+T: 150
+Value: 2.15882
+Optimized Elapsed time: 0.65077 seconds
+Optimized Memory Usage: 3722.67 MB
+T: 175
+Value: 2.23444
+Optimized Elapsed time: 1.23423 seconds
+Optimized Memory Usage: 6475.38 MB
+T: 200
+Value: 2.21722
+Optimized Elapsed time: 2.16112 seconds
+Optimized Memory Usage: 10935 MB
+T: 225
+Value: 2.2862
+Optimized Elapsed time: 3.57987 seconds
+Optimized Memory Usage: 16779.7 MB
+T: 250
+Value: 2.26364
+Optimized Elapsed time: 5.70626 seconds
+Optimized Memory Usage: 25503.6 MB
+T: 275
+Value: 2.32639
+Optimized Elapsed time: 8.10195 seconds
+Optimized Memory Usage: 36164.2 MB
+T: 300
+Value: 2.30125
+Optimized Elapsed time: 11.7785 seconds
+Optimized Memory Usage: 51252 MB
+T: 325
+Value: 2.35872
+Optimized Elapsed time: 15.8746 seconds
+Optimized Memory Usage: 68833.1 MB
+T: 350
+Value: 2.33247
+Optimized Elapsed time: 21.5959 seconds
+Optimized Memory Usage: 92804.8 MB
+T: 375
+Value: 2.38553
+Optimized Elapsed time: 28.117 seconds
+Optimized Memory Usage: 119792 MB
+T: 400
+Value: 2.35895
+Optimized Elapsed time: 37.2382 seconds
+Optimized Memory Usage: 155588 MB
+T: 425
+Value: 2.40831
+Optimized Elapsed time: 46.6337 seconds
+Optimized Memory Usage: 194848 MB
+T: 1
+Value naive: 1
+Naive Elapsed time: 0.000509218 seconds
+Naive Memory Usage: 5.53125 MB
+T: 2
+Value naive: 1
+Naive Elapsed time: 0.000373406 seconds
+Naive Memory Usage: 5.53125 MB
+T: 3
+Value naive: 1
+Naive Elapsed time: 0.000410484 seconds
+Naive Memory Usage: 5.53125 MB
+T: 4
+Value naive: 1
+Naive Elapsed time: 0.00106949 seconds
+Naive Memory Usage: 5.67969 MB
+T: 5
+Value naive: 1
+Naive Elapsed time: 0.00525545 seconds
+Naive Memory Usage: 5.88672 MB
+T: 6
+Value naive: 1.00048
+Naive Elapsed time: 0.0422073 seconds
+Naive Memory Usage: 7.6875 MB
+T: 7
+Value naive: 1.00271
+Naive Elapsed time: 0.367517 seconds
+Naive Memory Usage: 24.0352 MB
+T: 8
+Value naive: 1.01396
+Naive Elapsed time: 3.25167 seconds
+Naive Memory Usage: 170 MB
+T: 9
+Value naive: 1.03506
+Naive Elapsed time: 28.509 seconds
+Naive Memory Usage: 1483.81 MB
+T: 10
+max_response.sh: line 11: 2758823 Segmentation fault      timeout 3600s ./max_response.o --compute_naive < inputs/max_response_input_$i.txt
+Command potentially failed due to memory limit for input 10
+T: 1
+Value: 1
+Optimized Elapsed time: 0.00037031 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 2
+Value: 1
+Optimized Elapsed time: 0.00030095 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 3
+Value: 1
+Optimized Elapsed time: 0.000272357 seconds
+Optimized Memory Usage: 5.53125 MB
+T: 4
+Value: 1
+Optimized Elapsed time: 0.000267278 seconds
+Optimized Memory Usage: 5.66406 MB
+T: 5
+Value: 1
+Optimized Elapsed time: 0.000248943 seconds
+Optimized Memory Usage: 5.66016 MB
+T: 6
+Value: 1.00048
+Optimized Elapsed time: 0.000328792 seconds
+Optimized Memory Usage: 5.66016 MB
+T: 7
+Value: 1.00271
+Optimized Elapsed time: 0.000244916 seconds
+Optimized Memory Usage: 5.78906 MB
+T: 8
+Value: 1.01396
+Optimized Elapsed time: 0.000303184 seconds
+Optimized Memory Usage: 5.78906 MB
+T: 9
+Value: 1.03506
+Optimized Elapsed time: 0.000309055 seconds
+Optimized Memory Usage: 5.91797 MB
+T: 10
+Value: 1.01205
+Optimized Elapsed time: 0.000310188 seconds
+Optimized Memory Usage: 6.04688 MB
+T: 25
+Value: 1.78967
+Optimized Elapsed time: 0.00112737 seconds
+Optimized Memory Usage: 12.6211 MB
+T: 50
+Value: 2.01337
+Optimized Elapsed time: 0.0123222 seconds
+Optimized Memory Usage: 78.75 MB
+T: 75
+Value: 2.07533
+Optimized Elapsed time: 0.0472066 seconds
+Optimized Memory Usage: 293.637 MB
+T: 100
+Value: 2.0865
+Optimized Elapsed time: 0.133734 seconds
+Optimized Memory Usage: 844.453 MB
+T: 125
+Value: 2.16553
+Optimized Elapsed time: 0.301983 seconds
+Optimized Memory Usage: 1847.47 MB
+T: 150
+Value: 2.15882
+Optimized Elapsed time: 0.64987 seconds
+Optimized Memory Usage: 3722.67 MB
+T: 175
+Value: 2.23444
+Optimized Elapsed time: 1.2337 seconds
+Optimized Memory Usage: 6475.38 MB
+T: 200
+Value: 2.21722
+Optimized Elapsed time: 2.25787 seconds
+Optimized Memory Usage: 10935 MB
+T: 225
+Value: 2.2862
+Optimized Elapsed time: 3.58374 seconds
+Optimized Memory Usage: 16779.7 MB
+T: 250
+Value: 2.26364
+Optimized Elapsed time: 5.67891 seconds
+Optimized Memory Usage: 25503.6 MB
+T: 275
+Value: 2.32639
+Optimized Elapsed time: 8.09667 seconds
+Optimized Memory Usage: 36164.2 MB
+T: 300
+Value: 2.30125
+Optimized Elapsed time: 11.6968 seconds
+Optimized Memory Usage: 51252 MB
+T: 325
+Value: 2.35872
+Optimized Elapsed time: 15.8728 seconds
+Optimized Memory Usage: 68833.1 MB
+T: 350
+Value: 2.33247
+Optimized Elapsed time: 21.5941 seconds
+Optimized Memory Usage: 92804.8 MB
+T: 375
+Value: 2.38553
+Optimized Elapsed time: 28.1337 seconds
+Optimized Memory Usage: 119792 MB
+T: 400
+Value: 2.35895
+Optimized Elapsed time: 37.1972 seconds
+Optimized Memory Usage: 155588 MB
+T: 425
+Value: 2.40831
+Optimized Elapsed time: 46.6359 seconds
+Optimized Memory Usage: 194848 MB

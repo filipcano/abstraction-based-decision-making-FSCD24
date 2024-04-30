@@ -1,0 +1,9 @@
+T X B
+N_1 N_2 ... N_X
+Prob_1 ... Prob_X
+
+T: time horizon
+X: number of different clients
+B: budget
+N_1 ... N_X reward given by each client
+Prob_1 .. Prob_X probablitiey that client i appears

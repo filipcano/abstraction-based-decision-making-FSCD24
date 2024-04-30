@@ -1,0 +1,16 @@
+T X B
+
+Prob_A_1 ... Prob_A_X
+Prob_A_1 ... Prob_B_X
+
+
+##############
+T: time horizon
+X: max price, prices are [1, 2, ..., X]
+B: budget
+
+Prob_G_i is the probability that group G proposes price i
+
+Prob_A_1 + ... + Prob_A_X = 1
+Prob_B_1 + ... + Prob_B_X = 1
+

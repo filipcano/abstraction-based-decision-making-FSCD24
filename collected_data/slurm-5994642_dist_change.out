@@ -1,0 +1,958 @@
+T: 1
+Value naive: 0
+Naive Elapsed time: 0.000518159 seconds
+Naive Memory Usage: 5.50781 MB
+T: 2
+Value naive: 0
+Naive Elapsed time: 0.00043846 seconds
+Naive Memory Usage: 5.50781 MB
+T: 3
+Value naive: 42.5482
+Naive Elapsed time: 0.00122399 seconds
+Naive Memory Usage: 5.63672 MB
+T: 4
+Value naive: 43.5407
+Naive Elapsed time: 0.0179783 seconds
+Naive Memory Usage: 6.57812 MB
+T: 5
+Value naive: 62.9834
+Naive Elapsed time: 0.253921 seconds
+Naive Memory Usage: 30.0625 MB
+T: 6
+Value naive: 96.3224
+Naive Elapsed time: 6.00714 seconds
+Naive Memory Usage: 570.223 MB
+T: 1
+Value: 0
+Optimized Elapsed time: 0.000364421 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 2
+Value: 0
+Optimized Elapsed time: 0.000342921 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 3
+Value: 42.5482
+Optimized Elapsed time: 0.000290333 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 4
+Value: 43.5407
+Optimized Elapsed time: 0.000379721 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 5
+Value: 62.9834
+Optimized Elapsed time: 0.000267982 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 6
+Value: 96.3224
+Optimized Elapsed time: 0.000377476 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 7
+Value: 98.7409
+Optimized Elapsed time: 0.00033664 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 8
+Value: 120.517
+Optimized Elapsed time: 0.000332251 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 9
+Value: 214.938
+Optimized Elapsed time: 0.000340346 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 10
+Value: 81.3776
+Optimized Elapsed time: 0.000333543 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 100
+Value: 2510.42
+Optimized Elapsed time: 0.0116987 seconds
+Optimized Memory Usage: 6.92578 MB
+T: 250
+Value: 3141.22
+Optimized Elapsed time: 0.186508 seconds
+Optimized Memory Usage: 26.6484 MB
+T: 500
+Value: 9914.29
+Optimized Elapsed time: 1.53355 seconds
+Optimized Memory Usage: 168.574 MB
+T: 750
+Value: 19692.1
+Optimized Elapsed time: 6.96753 seconds
+Optimized Memory Usage: 554.16 MB
+T: 1000
+Value: 26621.9
+Optimized Elapsed time: 19.9227 seconds
+Optimized Memory Usage: 1295.02 MB
+T: 1250
+Value: 33379.7
+Optimized Elapsed time: 45.1447 seconds
+Optimized Memory Usage: 2518.89 MB
+T: 1500
+Value: 34857.2
+Optimized Elapsed time: 75.4015 seconds
+Optimized Memory Usage: 4340.07 MB
+T: 1750
+Value: 26797.3
+Optimized Elapsed time: 124.124 seconds
+Optimized Memory Usage: 6882.82 MB
+T: 2000
+Value: 44883.4
+Optimized Elapsed time: 190.818 seconds
+Optimized Memory Usage: 10244.3 MB
+T: 2250
+Value: 43045.1
+Optimized Elapsed time: 277.837 seconds
+Optimized Memory Usage: 14599.2 MB
+T: 2500
+Value: 45735.5
+Optimized Elapsed time: 383.334 seconds
+Optimized Memory Usage: 19985.4 MB
+T: 2750
+Value: 84564.6
+Optimized Elapsed time: 517.974 seconds
+Optimized Memory Usage: 26594.7 MB
+T: 3000
+Value: 81232.9
+Optimized Elapsed time: 731.581 seconds
+Optimized Memory Usage: 34509.8 MB
+T: 3250
+Value: 96444.6
+Optimized Elapsed time: 933.543 seconds
+Optimized Memory Usage: 43871.4 MB
+T: 3500
+Value: 87089.4
+Optimized Elapsed time: 1183.9 seconds
+Optimized Memory Usage: 54726.9 MB
+T: 3750
+Value: 119313
+Optimized Elapsed time: 1486.13 seconds
+Optimized Memory Usage: 67365.4 MB
+T: 4000
+Value: 103236
+Optimized Elapsed time: 1809.07 seconds
+Optimized Memory Usage: 81671.1 MB
+T: 4250
+Value: 97192.2
+Optimized Elapsed time: 2547.68 seconds
+Optimized Memory Usage: 97963.1 MB
+T: 4500
+Value: 93597.5
+Optimized Elapsed time: 3239.25 seconds
+Optimized Memory Usage: 116264 MB
+T: 1
+Value naive: 0
+Naive Elapsed time: 0.000429464 seconds
+Naive Memory Usage: 5.50781 MB
+T: 2
+Value naive: 0
+Naive Elapsed time: 0.000434723 seconds
+Naive Memory Usage: 5.50781 MB
+T: 3
+Value naive: 42.5482
+Naive Elapsed time: 0.0015515 seconds
+Naive Memory Usage: 5.63672 MB
+T: 4
+Value naive: 43.5407
+Naive Elapsed time: 0.0255703 seconds
+Naive Memory Usage: 6.57812 MB
+T: 5
+Value naive: 62.9834
+Naive Elapsed time: 0.269774 seconds
+Naive Memory Usage: 30.0625 MB
+T: 6
+Value naive: 96.3224
+Naive Elapsed time: 6.5403 seconds
+Naive Memory Usage: 570.223 MB
+T: 1
+Value: 0
+Optimized Elapsed time: 0.000386713 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 2
+Value: 0
+Optimized Elapsed time: 0.000451414 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 3
+Value: 42.5482
+Optimized Elapsed time: 0.000389409 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 4
+Value: 43.5407
+Optimized Elapsed time: 0.000291054 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 5
+Value: 62.9834
+Optimized Elapsed time: 0.00035259 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 6
+Value: 96.3224
+Optimized Elapsed time: 0.000429103 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 7
+Value: 98.7409
+Optimized Elapsed time: 0.000381734 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 8
+Value: 120.517
+Optimized Elapsed time: 0.000294862 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 9
+Value: 214.938
+Optimized Elapsed time: 0.0003314 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 10
+Value: 81.3776
+Optimized Elapsed time: 0.000371615 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 100
+Value: 2510.42
+Optimized Elapsed time: 0.0128946 seconds
+Optimized Memory Usage: 6.92578 MB
+T: 250
+Value: 3141.22
+Optimized Elapsed time: 0.217248 seconds
+Optimized Memory Usage: 26.6484 MB
+T: 500
+Value: 9914.29
+Optimized Elapsed time: 2.41741 seconds
+Optimized Memory Usage: 168.574 MB
+T: 750
+Value: 19692.1
+Optimized Elapsed time: 9.33545 seconds
+Optimized Memory Usage: 554.16 MB
+T: 1000
+Value: 26621.9
+Optimized Elapsed time: 25.0525 seconds
+Optimized Memory Usage: 1295.02 MB
+T: 1250
+Value: 33379.7
+Optimized Elapsed time: 52.945 seconds
+Optimized Memory Usage: 2518.89 MB
+T: 1500
+Value: 34857.2
+Optimized Elapsed time: 91.9409 seconds
+Optimized Memory Usage: 4340.07 MB
+T: 1750
+Value: 26797.3
+Optimized Elapsed time: 150.868 seconds
+Optimized Memory Usage: 6882.83 MB
+T: 2000
+Value: 44883.4
+Optimized Elapsed time: 230.387 seconds
+Optimized Memory Usage: 10244.3 MB
+T: 2250
+Value: 43045.1
+Optimized Elapsed time: 332.488 seconds
+Optimized Memory Usage: 14599.2 MB
+T: 2500
+Value: 45735.5
+Optimized Elapsed time: 466.74 seconds
+Optimized Memory Usage: 19985.4 MB
+T: 2750
+Value: 84564.6
+Optimized Elapsed time: 626.778 seconds
+Optimized Memory Usage: 26594.7 MB
+T: 3000
+Value: 81232.9
+Optimized Elapsed time: 851.63 seconds
+Optimized Memory Usage: 34509.8 MB
+T: 3250
+Value: 96444.6
+Optimized Elapsed time: 1069.32 seconds
+Optimized Memory Usage: 43871.4 MB
+T: 3500
+Value: 87089.4
+Optimized Elapsed time: 1349.26 seconds
+Optimized Memory Usage: 54726.9 MB
+T: 3750
+Value: 119313
+Optimized Elapsed time: 1725.68 seconds
+Optimized Memory Usage: 67365.4 MB
+T: 4000
+Value: 103236
+Optimized Elapsed time: 2076.48 seconds
+Optimized Memory Usage: 81671.1 MB
+T: 4250
+Value: 97192.2
+Optimized Elapsed time: 2113 seconds
+Optimized Memory Usage: 97963.1 MB
+T: 4500
+Value: 93597.5
+Optimized Elapsed time: 2467.97 seconds
+Optimized Memory Usage: 116264 MB
+T: 1
+Value naive: 0
+Naive Elapsed time: 0.000405879 seconds
+Naive Memory Usage: 5.50781 MB
+T: 2
+Value naive: 0
+Naive Elapsed time: 0.000558274 seconds
+Naive Memory Usage: 5.50781 MB
+T: 3
+Value naive: 42.5482
+Naive Elapsed time: 0.000933716 seconds
+Naive Memory Usage: 5.63672 MB
+T: 4
+Value naive: 43.5407
+Naive Elapsed time: 0.0108689 seconds
+Naive Memory Usage: 6.57812 MB
+T: 5
+Value naive: 62.9834
+Naive Elapsed time: 0.247191 seconds
+Naive Memory Usage: 30.0625 MB
+T: 6
+Value naive: 96.3224
+Naive Elapsed time: 6.00581 seconds
+Naive Memory Usage: 570.223 MB
+T: 1
+Value: 0
+Optimized Elapsed time: 0.000380551 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 2
+Value: 0
+Optimized Elapsed time: 0.00047068 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 3
+Value: 42.5482
+Optimized Elapsed time: 0.000444732 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 4
+Value: 43.5407
+Optimized Elapsed time: 0.000314328 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 5
+Value: 62.9834
+Optimized Elapsed time: 0.000390861 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 6
+Value: 96.3224
+Optimized Elapsed time: 0.000326039 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 7
+Value: 98.7409
+Optimized Elapsed time: 0.000300923 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 8
+Value: 120.517
+Optimized Elapsed time: 0.000286876 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 9
+Value: 214.938
+Optimized Elapsed time: 0.000281326 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 10
+Value: 81.3776
+Optimized Elapsed time: 0.000340247 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 100
+Value: 2510.42
+Optimized Elapsed time: 0.0116346 seconds
+Optimized Memory Usage: 6.92578 MB
+T: 250
+Value: 3141.22
+Optimized Elapsed time: 0.187059 seconds
+Optimized Memory Usage: 26.6484 MB
+T: 500
+Value: 9914.29
+Optimized Elapsed time: 1.53227 seconds
+Optimized Memory Usage: 168.574 MB
+T: 750
+Value: 19692.1
+Optimized Elapsed time: 6.967 seconds
+Optimized Memory Usage: 554.16 MB
+T: 1000
+Value: 26621.9
+Optimized Elapsed time: 19.9592 seconds
+Optimized Memory Usage: 1295.02 MB
+T: 1250
+Value: 33379.7
+Optimized Elapsed time: 45.1652 seconds
+Optimized Memory Usage: 2518.89 MB
+T: 1500
+Value: 34857.2
+Optimized Elapsed time: 75.6261 seconds
+Optimized Memory Usage: 4340.07 MB
+T: 1750
+Value: 26797.3
+Optimized Elapsed time: 124.518 seconds
+Optimized Memory Usage: 6882.82 MB
+T: 2000
+Value: 44883.4
+Optimized Elapsed time: 191.421 seconds
+Optimized Memory Usage: 10244.3 MB
+T: 2250
+Value: 43045.1
+Optimized Elapsed time: 276.332 seconds
+Optimized Memory Usage: 14599.2 MB
+T: 2500
+Value: 45735.5
+Optimized Elapsed time: 383.846 seconds
+Optimized Memory Usage: 19985.4 MB
+T: 2750
+Value: 84564.6
+Optimized Elapsed time: 517.673 seconds
+Optimized Memory Usage: 26594.7 MB
+T: 3000
+Value: 81232.9
+Optimized Elapsed time: 691.625 seconds
+Optimized Memory Usage: 34509.8 MB
+T: 3250
+Value: 96444.6
+Optimized Elapsed time: 878.682 seconds
+Optimized Memory Usage: 43871.4 MB
+T: 3500
+Value: 87089.4
+Optimized Elapsed time: 1108.71 seconds
+Optimized Memory Usage: 54726.9 MB
+T: 3750
+Value: 119313
+Optimized Elapsed time: 1383.69 seconds
+Optimized Memory Usage: 67365.4 MB
+T: 4000
+Value: 103236
+Optimized Elapsed time: 1694.2 seconds
+Optimized Memory Usage: 81671.1 MB
+T: 4250
+Value: 97192.2
+Optimized Elapsed time: 2066.63 seconds
+Optimized Memory Usage: 97963.1 MB
+T: 4500
+Value: 93597.5
+Optimized Elapsed time: 2467.79 seconds
+Optimized Memory Usage: 116264 MB
+T: 1
+Value naive: 0
+Naive Elapsed time: 0.000475629 seconds
+Naive Memory Usage: 5.50781 MB
+T: 2
+Value naive: 0
+Naive Elapsed time: 0.000338442 seconds
+Naive Memory Usage: 5.50781 MB
+T: 3
+Value naive: 42.5482
+Naive Elapsed time: 0.000879506 seconds
+Naive Memory Usage: 5.63672 MB
+T: 4
+Value naive: 43.5407
+Naive Elapsed time: 0.0109072 seconds
+Naive Memory Usage: 6.57812 MB
+T: 5
+Value naive: 62.9834
+Naive Elapsed time: 0.247269 seconds
+Naive Memory Usage: 30.0625 MB
+T: 6
+Value naive: 96.3224
+Naive Elapsed time: 6.00673 seconds
+Naive Memory Usage: 570.223 MB
+T: 1
+Value: 0
+Optimized Elapsed time: 0.000441416 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 2
+Value: 0
+Optimized Elapsed time: 0.000430064 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 3
+Value: 42.5482
+Optimized Elapsed time: 0.00044377 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 4
+Value: 43.5407
+Optimized Elapsed time: 0.000312856 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 5
+Value: 62.9834
+Optimized Elapsed time: 0.000339675 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 6
+Value: 96.3224
+Optimized Elapsed time: 0.000396622 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 7
+Value: 98.7409
+Optimized Elapsed time: 0.000248685 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 8
+Value: 120.517
+Optimized Elapsed time: 0.000286977 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 9
+Value: 214.938
+Optimized Elapsed time: 0.000413624 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 10
+Value: 81.3776
+Optimized Elapsed time: 0.000266899 seconds
+Optimized Memory Usage: 5.50781 MB
+T: 100
+Value: 2510.42
+Optimized Elapsed time: 0.0116385 seconds
+Optimized Memory Usage: 6.92578 MB
+T: 250
+Value: 3141.22
+Optimized Elapsed time: 0.185952 seconds
+Optimized Memory Usage: 26.6484 MB
+T: 500
+Value: 9914.29
+Optimized Elapsed time: 1.5324 seconds
+Optimized Memory Usage: 168.574 MB
+T: 750
+Value: 19692.1
+Optimized Elapsed time: 6.96989 seconds
+Optimized Memory Usage: 554.16 MB
+T: 1000
+Value: 26621.9
+Optimized Elapsed time: 19.7209 seconds
+Optimized Memory Usage: 1295.02 MB
+T: 1250
+Value: 33379.7
+Optimized Elapsed time: 44.1877 seconds
+Optimized Memory Usage: 2518.89 MB
+T: 1500
+Value: 34857.2
+Optimized Elapsed time: 75.5897 seconds
+Optimized Memory Usage: 4340.07 MB
+T: 1750
+Value: 26797.3
+Optimized Elapsed time: 124.528 seconds
+Optimized Memory Usage: 6882.82 MB
+T: 2000
+Value: 44883.4
+Optimized Elapsed time: 191.203 seconds
+Optimized Memory Usage: 10244.3 MB
+T: 2250
+Value: 43045.1
+Optimized Elapsed time: 276.342 seconds
+Optimized Memory Usage: 14599.2 MB
+T: 2500
+Value: 45735.5
+Optimized Elapsed time: 383.803 seconds
+Optimized Memory Usage: 19985.4 MB
+T: 2750
+Value: 84564.6
+Optimized Elapsed time: 517.36 seconds
+Optimized Memory Usage: 26594.7 MB
+T: 3000
+Value: 81232.9
+Optimized Elapsed time: 690.29 seconds
+Optimized Memory Usage: 34509.8 MB
+T: 3250
+Value: 96444.6
+Optimized Elapsed time: 878.062 seconds
+Optimized Memory Usage: 43871.4 MB
+T: 3500
+Value: 87089.4
+Optimized Elapsed time: 1130.71 seconds
+Optimized Memory Usage: 54726.9 MB
+T: 3750
+Value: 119313
+Optimized Elapsed time: 1415.78 seconds
+Optimized Memory Usage: 67365.4 MB
+T: 4000
+Value: 103236
+Optimized Elapsed time: 1690.19 seconds
+Optimized Memory Usage: 81671.1 MB
+
+#####
+#####
+extra from slurm 6074723
+
+T: 1
+Value: 0
+Mid Elapsed time: 0.000399667 seconds
+Mid Memory Usage: 5.52734 MB
+T: 2
+Value: 0
+Mid Elapsed time: 0.000248905 seconds
+Mid Memory Usage: 5.52734 MB
+T: 3
+Value: 3.96845
+Mid Elapsed time: 0.000255387 seconds
+Mid Memory Usage: 5.52734 MB
+T: 4
+Value: 4.32574
+Mid Elapsed time: 0.000368098 seconds
+Mid Memory Usage: 5.52734 MB
+T: 5
+Value: 5.25402
+Mid Elapsed time: 0.000364502 seconds
+Mid Memory Usage: 5.52734 MB
+T: 6
+Value: 9.7324
+Mid Elapsed time: 0.000385139 seconds
+Mid Memory Usage: 5.52734 MB
+T: 7
+Value: 10.5179
+Mid Elapsed time: 0.000475409 seconds
+Mid Memory Usage: 5.52734 MB
+T: 8
+Value: 11.7418
+Mid Elapsed time: 0.000302326 seconds
+Mid Memory Usage: 5.52734 MB
+T: 9
+Value: 14.9693
+Mid Elapsed time: 0.000374871 seconds
+Mid Memory Usage: 5.52734 MB
+T: 10
+Value: 14.3701
+Mid Elapsed time: 0.000474346 seconds
+Mid Memory Usage: 5.66016 MB
+T: 100
+Value: 155.398
+Mid Elapsed time: 0.173131 seconds
+Mid Memory Usage: 29.7617 MB
+T: 250
+Value: 473.476
+Mid Elapsed time: 2.81856 seconds
+Mid Memory Usage: 370.988 MB
+T: 500
+Value: 1062.95
+Mid Elapsed time: 31.8539 seconds
+Mid Memory Usage: 2892.12 MB
+T: 750
+Value: 1562.14
+Mid Elapsed time: 119.176 seconds
+Mid Memory Usage: 9744.82 MB
+T: 1000
+Value: 1.78459e+17
+Mid Elapsed time: 287.198 seconds
+Mid Memory Usage: 23018.6 MB
+T: 1250
+Value: 2769.9
+Mid Elapsed time: 590.428 seconds
+Mid Memory Usage: 44868.3 MB
+T: 1500
+Value: 7.91365e+12
+Mid Elapsed time: 1063.85 seconds
+Mid Memory Usage: 77585.7 MB
+T: 1750
+Value: 2.84324e+12
+Mid Elapsed time: 1732.42 seconds
+Mid Memory Usage: 123054 MB
+T: 2000
+Value: 1.17746e+08
+Mid Elapsed time: 2630.47 seconds
+Mid Memory Usage: 183518 MB
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+dist_change.sh: line 39: 1269776 Aborted                 timeout 3600s ./dist_change.o --compute_mid < inputs/established_clientele_input_$i.txt
+Command potentially failed due to memory limit for input 2250
+T: 1
+Value: 0
+Mid Elapsed time: 0.000383367 seconds
+Mid Memory Usage: 5.52734 MB
+T: 2
+Value: 0
+Mid Elapsed time: 0.000327833 seconds
+Mid Memory Usage: 5.52734 MB
+T: 3
+Value: 3.96845
+Mid Elapsed time: 0.000386051 seconds
+Mid Memory Usage: 5.52734 MB
+T: 4
+Value: 4.32574
+Mid Elapsed time: 0.000183774 seconds
+Mid Memory Usage: 5.52734 MB
+T: 5
+Value: 5.25402
+Mid Elapsed time: 0.000269003 seconds
+Mid Memory Usage: 5.52734 MB
+T: 6
+Value: 9.6278
+Mid Elapsed time: 0.000328904 seconds
+Mid Memory Usage: 5.52734 MB
+T: 7
+Value: 3.32368e+30
+Mid Elapsed time: 0.000372867 seconds
+Mid Memory Usage: 5.52734 MB
+T: 8
+Value: 11.7418
+Mid Elapsed time: 0.000432989 seconds
+Mid Memory Usage: 5.52734 MB
+T: 9
+Value: 14.9693
+Mid Elapsed time: 0.000453577 seconds
+Mid Memory Usage: 5.52734 MB
+T: 10
+Value: 14.3701
+Mid Elapsed time: 0.000512017 seconds
+Mid Memory Usage: 5.66016 MB
+T: 100
+Value: 155.398
+Mid Elapsed time: 0.176702 seconds
+Mid Memory Usage: 29.7617 MB
+T: 250
+Value: 473.476
+Mid Elapsed time: 2.87782 seconds
+Mid Memory Usage: 370.988 MB
+T: 500
+Value: 1062.95
+Mid Elapsed time: 32.3477 seconds
+Mid Memory Usage: 2892.12 MB
+T: 750
+Value: 1562.14
+Mid Elapsed time: 118.545 seconds
+Mid Memory Usage: 9744.82 MB
+T: 1000
+Value: 2.26795e+14
+Mid Elapsed time: 287.82 seconds
+Mid Memory Usage: 23018.6 MB
+T: 1250
+Value: 1.30034e+18
+Mid Elapsed time: 590.277 seconds
+Mid Memory Usage: 44868.3 MB
+T: 1500
+Value: 9.76049e+22
+Mid Elapsed time: 1065.64 seconds
+Mid Memory Usage: 77585.7 MB
+T: 1750
+Value: 3.0185e+12
+Mid Elapsed time: 1732.34 seconds
+Mid Memory Usage: 123054 MB
+T: 2000
+Value: 5.43649e+09
+Mid Elapsed time: 2636.26 seconds
+Mid Memory Usage: 183518 MB
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+dist_change.sh: line 39: 1270124 Aborted                 timeout 3600s ./dist_change.o --compute_mid < inputs/established_clientele_input_$i.txt
+Command potentially failed due to memory limit for input 2250
+T: 1
+Value: 0
+Mid Elapsed time: 0.000469107 seconds
+Mid Memory Usage: 5.52734 MB
+T: 2
+Value: 0
+Mid Elapsed time: 0.000490827 seconds
+Mid Memory Usage: 5.52734 MB
+T: 3
+Value: 3.96845
+Mid Elapsed time: 0.000333623 seconds
+Mid Memory Usage: 5.52734 MB
+T: 4
+Value: 4.32574
+Mid Elapsed time: 0.000480718 seconds
+Mid Memory Usage: 5.52734 MB
+T: 5
+Value: 5.25402
+Mid Elapsed time: 0.000466441 seconds
+Mid Memory Usage: 5.52734 MB
+T: 6
+Value: 9.7324
+Mid Elapsed time: 0.000435193 seconds
+Mid Memory Usage: 5.52734 MB
+T: 7
+Value: 10.5179
+Mid Elapsed time: 0.00042245 seconds
+Mid Memory Usage: 5.52734 MB
+T: 8
+Value: 2.00854e+07
+Mid Elapsed time: 0.000476791 seconds
+Mid Memory Usage: 5.52734 MB
+T: 9
+Value: 14.5321
+Mid Elapsed time: 0.000734132 seconds
+Mid Memory Usage: 5.52734 MB
+T: 10
+Value: 14.731
+Mid Elapsed time: 0.000612275 seconds
+Mid Memory Usage: 5.66016 MB
+T: 100
+Value: 155.398
+Mid Elapsed time: 0.176053 seconds
+Mid Memory Usage: 29.7617 MB
+T: 250
+Value: 473.476
+Mid Elapsed time: 2.86407 seconds
+Mid Memory Usage: 370.988 MB
+T: 500
+Value: 1062.95
+Mid Elapsed time: 32.0805 seconds
+Mid Memory Usage: 2892.12 MB
+T: 750
+Value: 1562.14
+Mid Elapsed time: 118.395 seconds
+Mid Memory Usage: 9744.82 MB
+T: 1000
+Value: 2002.35
+Mid Elapsed time: 287.467 seconds
+Mid Memory Usage: 23018.6 MB
+T: 1250
+Value: 3.24599e+18
+Mid Elapsed time: 591.922 seconds
+Mid Memory Usage: 44868.3 MB
+T: 1500
+Value: 7.56047e+18
+Mid Elapsed time: 1062.62 seconds
+Mid Memory Usage: 77585.7 MB
+T: 1750
+Value: 1.859e+11
+Mid Elapsed time: 1736.64 seconds
+Mid Memory Usage: 123054 MB
+T: 2000
+Value: 1.31276e+10
+Mid Elapsed time: 2631.03 seconds
+Mid Memory Usage: 183518 MB
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+dist_change.sh: line 39: 1270449 Aborted                 timeout 3600s ./dist_change.o --compute_mid < inputs/established_clientele_input_$i.txt
+Command potentially failed due to memory limit for input 2250
+T: 1
+Value: 0
+Mid Elapsed time: 0.000273622 seconds
+Mid Memory Usage: 5.52734 MB
+T: 2
+Value: 0
+Mid Elapsed time: 0.000274463 seconds
+Mid Memory Usage: 5.52734 MB
+T: 3
+Value: 3.96845
+Mid Elapsed time: 0.000365984 seconds
+Mid Memory Usage: 5.52734 MB
+T: 4
+Value: 4.32574
+Mid Elapsed time: 0.000262551 seconds
+Mid Memory Usage: 5.52734 MB
+T: 5
+Value: 5.25402
+Mid Elapsed time: 0.000453268 seconds
+Mid Memory Usage: 5.52734 MB
+T: 6
+Value: 9.48516
+Mid Elapsed time: 0.000486119 seconds
+Mid Memory Usage: 5.52734 MB
+T: 7
+Value: 10.5179
+Mid Elapsed time: 0.000468064 seconds
+Mid Memory Usage: 5.52734 MB
+T: 8
+Value: 4.91829e+07
+Mid Elapsed time: 0.000433771 seconds
+Mid Memory Usage: 5.52734 MB
+T: 9
+Value: 14.5321
+Mid Elapsed time: 0.000404517 seconds
+Mid Memory Usage: 5.52734 MB
+T: 10
+Value: 14.3701
+Mid Elapsed time: 0.000454329 seconds
+Mid Memory Usage: 5.66016 MB
+T: 100
+Value: 155.398
+Mid Elapsed time: 0.177319 seconds
+Mid Memory Usage: 29.7617 MB
+T: 250
+Value: 3.24412e+12
+Mid Elapsed time: 2.86967 seconds
+Mid Memory Usage: 370.988 MB
+T: 500
+Value: 1062.95
+Mid Elapsed time: 32.2289 seconds
+Mid Memory Usage: 2892.12 MB
+T: 750
+Value: 1562.14
+Mid Elapsed time: 119.243 seconds
+Mid Memory Usage: 9744.82 MB
+T: 1000
+Value: 2002.35
+Mid Elapsed time: 287.364 seconds
+Mid Memory Usage: 23018.6 MB
+T: 1250
+Value: 9.49283e+10
+Mid Elapsed time: 591.337 seconds
+Mid Memory Usage: 44868.3 MB
+T: 1500
+Value: 2.59437e+17
+Mid Elapsed time: 1062.32 seconds
+Mid Memory Usage: 77585.7 MB
+T: 1750
+Value: 1.52681e+07
+Mid Elapsed time: 1730.86 seconds
+Mid Memory Usage: 123054 MB
+T: 2000
+Value: 3.96617e+11
+Mid Elapsed time: 2630.74 seconds
+Mid Memory Usage: 183518 MB
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+dist_change.sh: line 39: 1270784 Aborted                 timeout 3600s ./dist_change.o --compute_mid < inputs/established_clientele_input_$i.txt
+Command potentially failed due to memory limit for input 2250
+T: 1
+Value: 0
+Mid Elapsed time: 0.000303197 seconds
+Mid Memory Usage: 5.52734 MB
+T: 2
+Value: 0
+Mid Elapsed time: 0.000313305 seconds
+Mid Memory Usage: 5.52734 MB
+T: 3
+Value: 3.96845
+Mid Elapsed time: 0.000387273 seconds
+Mid Memory Usage: 5.52734 MB
+T: 4
+Value: 4.32574
+Mid Elapsed time: 0.000327262 seconds
+Mid Memory Usage: 5.52734 MB
+T: 5
+Value: 5.25402
+Mid Elapsed time: 0.000300902 seconds
+Mid Memory Usage: 5.52734 MB
+T: 6
+Value: 9.48516
+Mid Elapsed time: 0.000390059 seconds
+Mid Memory Usage: 5.52734 MB
+T: 7
+Value: 10.3183
+Mid Elapsed time: 0.000370312 seconds
+Mid Memory Usage: 5.52734 MB
+T: 8
+Value: 3426.58
+Mid Elapsed time: 0.000408925 seconds
+Mid Memory Usage: 5.52734 MB
+T: 9
+Value: 141324
+Mid Elapsed time: 0.000473745 seconds
+Mid Memory Usage: 5.52734 MB
+T: 10
+Value: 4.85387e+14
+Mid Elapsed time: 0.000456593 seconds
+Mid Memory Usage: 5.66016 MB
+T: 100
+Value: 155.398
+Mid Elapsed time: 0.177906 seconds
+Mid Memory Usage: 29.7617 MB
+T: 250
+Value: 16277.7
+Mid Elapsed time: 2.88617 seconds
+Mid Memory Usage: 370.988 MB
+T: 500
+Value: 1062.95
+Mid Elapsed time: 32.3697 seconds
+Mid Memory Usage: 2892.12 MB
+T: 750
+Value: 1562.14
+Mid Elapsed time: 119.669 seconds
+Mid Memory Usage: 9744.82 MB
+T: 1000
+Value: 2002.35
+Mid Elapsed time: 287.797 seconds
+Mid Memory Usage: 23018.6 MB
+T: 1250
+Value: 5.55712e+06
+Mid Elapsed time: 593.213 seconds
+Mid Memory Usage: 44868.3 MB
+T: 1500
+Value: 1.6482e+11
+Mid Elapsed time: 1062.62 seconds
+Mid Memory Usage: 77585.7 MB
+T: 1750
+Value: 1.16556e+07
+Mid Elapsed time: 1733.08 seconds
+Mid Memory Usage: 123054 MB
+T: 2000
+Value: 8.82573e+09
+Mid Elapsed time: 2633.05 seconds
+Mid Memory Usage: 183518 MB
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+dist_change.sh: line 39: 1271171 Aborted                 timeout 3600s ./dist_change.o --compute_mid < inputs/established_clientele_input_$i.txt
+Command potentially failed due to memory limit for input 2250
+
